@@ -5,7 +5,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Software Development / AWS and Cloud Computing]** with experience in **[Git/Github]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Development / AWS and Cloud Computing]** with experience in **[Git/Github**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **DevOps Engineering and AWS**
 - 🔭 Working on: **Magna Carter MMXXVI, a Fintech based project**
