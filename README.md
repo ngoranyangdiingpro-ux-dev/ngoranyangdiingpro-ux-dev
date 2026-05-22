@@ -45,6 +45,6 @@ I'm a passionate **[Software Development / AWS and Cloud Computing]** with exper
 - **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(your_linkedin_profile_link)
 - **[Twitter]**(your_twitter_profile_link)
-- ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ngoranyangdiingpro@gmail.com
 
 
