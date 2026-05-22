@@ -7,11 +7,11 @@
 
 I'm a passionate **[Software Development / AWS and Cloud Computing]** with experience in **[Git/Github]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[DevOps Engineering]**
-- 🔭 Working on: **[Magna Carter MMXXVI, a Fintech based project]**
-- 🌍 Languages: **[Python, JavaScript and English(UK)]**
-- 📫 How to reach me: **[ngoranyangdiingpro@gmail.com]**
-- ⚡ Fun fact: **[I'm enjoy listening to music on Spotify or Apple Music while working]**
+- 🌱 Currently learning: **DevOps Engineering and AWS**
+- 🔭 Working on: **Magna Carter MMXXVI, a Fintech based project**
+- 🌍 Languages: **Python, JavaScript and English(UK)**
+- 📫 How to reach me: **ngoranyangdiingpro@gmail.com**
+- ⚡ Fun fact: **I'm enjoy listening to music on Spotify or Apple Music while working**
 
 ## My Skills 🧠
 
